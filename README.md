@@ -34,32 +34,6 @@ All components are expected to evolve over time through refinement, not static c
 
 ---
 
-## System Structure (Conceptual)
-
-The console is designed around layered modules:
-
-### 1. Core Knowledge Layer
-- Fundamental programming concepts
-- Engineering principles
-- Mathematical and logical foundations
-
-### 2. Prototype Layer
-- Experimental systems
-- Early-stage architectural models
-- Concept validation structures
-
-### 3. Execution Layer
-- Practical implementations
-- Scripts and functional components
-- Real-world applied logic
-
-### 4. Reflection Layer
-- Notes on design decisions
-- System behavior analysis
-- Structural observations
-
----
-
 ## Intended Use
 
 This repository is not just for storage—it is meant to be used as:
