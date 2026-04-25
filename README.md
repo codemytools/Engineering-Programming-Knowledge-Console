@@ -50,9 +50,8 @@ This repository is not just for storage—it is meant to be used as:
 Planned evolution includes:
 
 - Expansion into modular system simulation
-- Integration of automated reasoning components
-- Separation of public vs private system layers
-- Potential linkage to trading system architecture and execution frameworks
+- Separation of public and private system layers
+- Integration with domain-specific execution systems (e.g., financial, automation, AI frameworks)
 
 ---
 
